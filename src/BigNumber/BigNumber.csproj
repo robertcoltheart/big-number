@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net5.0</TargetFrameworks>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+
+    <Authors>Robert Coltheart</Authors>
+    <Description>A collection of types for expressing very large numbers</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/robertcoltheart/bignumber</PackageProjectUrl>
+    <PackageTags>bigdouble bigdecimal</PackageTags>
+  </PropertyGroup>
+
+</Project>
