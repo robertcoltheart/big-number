@@ -8,7 +8,6 @@ namespace BigNumber.Tests
         [Fact]
         public void Test1()
         {
-
         }
     }
 }
