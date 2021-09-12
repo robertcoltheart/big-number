@@ -23,9 +23,11 @@ namespace BigNumber
         {
         }
 
+#if NET5_0_OR_GREATER
         public BigDouble(ReadOnlySpan<byte> value)
         {
         }
+#endif
 
         public static implicit operator BigDouble(double value)
         {
