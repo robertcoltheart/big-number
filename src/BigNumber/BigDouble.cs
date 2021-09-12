@@ -5,7 +5,25 @@ namespace BigNumber
     [Serializable]
     public partial struct BigDouble : IEquatable<BigDouble>, IComparable<BigDouble>, IComparable, IFormattable
     {
+        public BigDouble(int value)
+        {
+        }
+
+        [CLSCompliant(false)]
+        public BigDouble(uint value)
+        {
+        }
+
         public BigDouble(double value)
+        {
+        }
+
+        [CLSCompliant(false)]
+        public BigDouble(byte[] value)
+        {
+        }
+
+        public BigDouble(ReadOnlySpan<byte> value)
         {
         }
 
