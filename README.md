@@ -32,5 +32,11 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute 
 ## Acknowledgements
 A port of the excellent [break_infinity.js](https://github.com/Patashu/break_infinity.js) and [break_eternity.js](https://github.com/Patashu/break_eternity.js).
 
+## Additional reading
+https://en.wikipedia.org/wiki/Symmetric_level-index_arithmetic
+https://www.americanscientist.org/article/the-higher-arithmetic
+https://github.com/Patashu/break_eternity.js
+https://mrob.com/pub/math/altnum.html#li_sli
+
 ## License
 BigNumber is released under the [MIT License](LICENSE).
